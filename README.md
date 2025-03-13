@@ -10,6 +10,7 @@ PyTorch implementation of "**MSDUNet: A Model based on Feature Multi-Scale and D
 ---
 
 ## 🚀 News
+- **[03, 2025]**: The code and pre-trained models has be released.
 - **[03, 2025]**: The code and pre-trained models will be released soon.
 - **[04, 2024]**: Our MSDUNet achieves new SOTA performance on public skin lesion segmentation datasets.
 
