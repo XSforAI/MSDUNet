@@ -30,7 +30,7 @@ PyTorch implementation of "**MSDUNet: A Model based on Feature Multi-Scale and D
 ```bash
 git clone https://github.com/XSforAI/MSDUNet.git
 cd MSDUNet
-pip install -r conda list --export > requirements.txt
+pip install -r requirements.txt
 
 ```
 
