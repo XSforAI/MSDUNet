@@ -9,6 +9,15 @@ PyTorch implementation of "**MSDUNet: A Model based on Feature Multi-Scale and D
 
 ---
 
+## **Erratum Notice**
+
+We have identified a **serious typographical error** in our paper regarding the reported **IoU value of MISSFormer on the ISIC2018 dataset**, which was mistakenly given as **92.41%**. After verification, the **correct IoU value should be 82.41%**.
+
+This error does not affect the performance of the method proposed in our paper, but it may cause some misunderstanding to the readers.
+
+We have contacted the publisher and will request an official correction as soon as possible. We sincerely apologize for any inconvenience caused.
+
+
 ## 🚀 News
 - **[03, 2025]**: 🥳The code and pre-trained models has be released.
 - **[03, 2025]**: 🏆Good news, our paper was accepted by TMI. The code and pre-trained models will be released soon.
